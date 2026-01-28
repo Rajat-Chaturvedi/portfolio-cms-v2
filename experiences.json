@@ -1,0 +1,110 @@
+[
+  {
+    "company": "Deepdive (Techies Infotech)",
+    "title": "Senior Frontend Engineer",
+    "startDate": "Apr 2025",
+    "endDate": "Present",
+    "bullets": [
+      {
+        "point": "Led frontend development for enterprise-scale e-commerce PWAs including MECL, LAe3bs, and Sony platforms."
+      },
+      {
+        "point": "Delivered MECL e-commerce platform with zero-downtime deployment and optimized checkout flows."
+      },
+      {
+        "point": "Built scalable, reusable UI components using React, TypeScript, and Next.js."
+      },
+      {
+        "point": "Integrated multiple payment gateways with mobile-first responsive UX."
+      },
+      {
+        "point": "Mentored frontend developers and enforced coding standards and best practices."
+      }
+    ],
+    "order": 1
+  },
+  {
+    "company": "Infosys",
+    "title": "Senior Software Engineer",
+    "startDate": "Nov 2024",
+    "endDate": "Apr 2025",
+    "bullets": [
+      {
+        "point": "Spearheaded the development and deployment of scalable software solutions to meet enterprise-level requirements."
+      },
+      {
+        "point": "Collaborated with cross-functional teams to design and implement innovative systems that enhance operational efficiency."
+      },
+      {
+        "point": "Mentored junior developers and fostered a culture of continuous learning and improvement."
+      },
+      {
+        "point": "Ensured adherence to best practices in coding, testing, and deployment."
+      }
+    ],
+    "order": 2
+  },
+  {
+    "company": "Quara Holdings",
+    "title": "Software Engineer",
+    "startDate": "July 2023",
+    "endDate": "Nov 2024",
+    "bullets": [
+      {
+        "point": "Designed and developed robust software applications to support business operations and client needs."
+      },
+      {
+        "point": "Worked closely with stakeholders to gather requirements and translate them into technical specifications."
+      },
+      {
+        "point": "Optimized existing systems for performance, scalability, and security."
+      },
+      {
+        "point": "Contributed to the full software development lifecycle from ideation to deployment."
+      }
+    ],
+    "order": 3
+  },
+  {
+    "company": "Webkul",
+    "title": "Software Developer",
+    "startDate": "January 2023",
+    "endDate": "June 2023",
+    "bullets": [
+      {
+        "point": "Developed and customized e-commerce solutions using modern web technologies."
+      },
+      {
+        "point": "Integrated third-party APIs and plugins to enhance platform functionality."
+      },
+      {
+        "point": "Debugged and resolved technical issues to ensure seamless application performance."
+      },
+      {
+        "point": "Collaborated with design and product teams to deliver user-centric solutions."
+      }
+    ],
+    "order": 4
+  },
+  {
+    "company": "Cognizant",
+    "title": "Programmer Analyst",
+    "startDate": "March 2021",
+    "endDate": "January 2023",
+    "bullets": [
+      {
+        "point": "Analyzed client requirements and developed tailored software solutions."
+      },
+      {
+        "point": "Conducted code reviews and implemented improvements to ensure quality deliverables."
+      },
+      {
+        "point": "Maintained and enhanced legacy systems aligned with modern standards."
+      },
+      {
+        "point": "Worked in agile environments contributing to sprint planning and execution."
+      }
+    ],
+    "order": 5
+  }
+]

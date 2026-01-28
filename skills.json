@@ -1,248 +1,111 @@
 [
   {
-    "skill": "HTML",
-    "type": [
-      {
-        "subType": "HTML5",
-        "image": "/assets/images/html5.png"
-      },
-      {
-        "subType": "JSX",
-        "image": "/assets/images/react.png"
-      }
+    "name": "HTML",
+    "order": 1,
+    "types": [
+      { "subType": "HTML5" },
+      { "subType": "JSX" }
     ]
   },
   {
-    "skill": "CSS",
-    "type": [
-      {
-        "subType": "CSS3",
-        "image": "/assets/images/css3.png"
-      },
-      {
-        "subType": "SASS",
-        "image": "/assets/images/sass.png"
-      },
-      {
-        "subType": "Bootstrap",
-        "image": "/assets/images/bootstrap.png"
-      },
-      {
-        "subType": "Material UI",
-        "image": "/assets/images/mui.png"
-      },
-      {
-        "subType": "Ant Design",
-        "image": "/assets/images/antdesign.png"
-      }
+    "name": "CSS",
+    "order": 2,
+    "types": [
+      { "subType": "CSS3" },
+      { "subType": "SASS" },
+      { "subType": "Bootstrap"},
+      { "subType": "Material UI"},
+      { "subType": "Ant Design" }
     ]
   },
   {
-    "skill": "Javascript",
-    "type": [
-      {
-        "subType": "Javascript",
-        "image": "/assets/images/javascript.png"
-      },
-      {
-        "subType": "Typescript",
-        "image": "/assets/images/typescript.png"
-      },
-      {
-        "subType": "React JS",
-        "image": "/assets/images/react.png"
-      },
-      {
-        "subType": "Next Js",
-        "image": "/assets/images/nextjs.png"
-      },
-      {
-        "subType": "Redux",
-        "image": "/assets/images/redux.png"
-      },
-      {
-        "subType": "Magento PWA",
-        "image": "/assets/images/magento-pwa.png"
-      },
-      {
-        "subType": "PWA",
-        "image": "/assets/images/pwa.png"
-      },
-      {
-        "subType": "NodeJs",
-        "image": "/assets/images/node.png"
-      },
-      {
-        "subType": "React Native",
-        "image": "/assets/images/reactnative.png"
-      }
+    "name": "Javascript",
+    "order": 3,
+    "types": [
+      { "subType": "Javascript" },
+      { "subType": "Typescript"},
+      { "subType": "React JS" },
+      { "subType": "Next Js" },
+      { "subType": "Redux" },
+      { "subType": "Magento PWA" },
+      { "subType": "PWA" },
+      { "subType": "NodeJs" },
+      { "subType": "React Native" }
     ]
   },
   {
-    "skill": "Backend",
-    "type": [
-      {
-        "subType": "MongoDB",
-        "image": "/assets/images/mongodb.png"
-      },
-      {
-        "subType": "GraphQL",
-        "image": "/assets/images/graphql.png"
-      },
-      {
-        "subType": "Rest API",
-        "image": "/assets/images/rest.png"
-      },
-      {
-        "subType": "Apollo",
-        "image": "/assets/images/apollo.png"
-      },
-      {
-        "subType": "Prisma",
-        "image": "/assets/images/prisma.png"
-      },
-      {
-        "subType": "PostgreSQL",
-        "image": "/assets/images/postgresql.png"
-      },
-      {
-        "subType": "SQL Server",
-        "image": "/assets/images/sql.png"
-      }
+    "name": "Backend",
+    "order": 4,
+    "types": [
+      { "subType": "MongoDB" },
+      { "subType": "GraphQL" },
+      { "subType": "Rest API"},
+      { "subType": "Apollo" },
+      { "subType": "Prisma"},
+      { "subType": "PostgreSQL"},
+      { "subType": "SQL Server"}
     ]
   },
   {
-    "skill": "Payment Gateways",
-    "type": [
-      {
-        "subType": "Amazon Pay Front",
-        "image": "/assets/images/amazonpay.png"
-      },
-      {
-        "subType": "Apple Pay",
-        "image": "/assets/images/applepay.png"
-      },
-      {
-        "subType": "Checkout.com",
-        "image": "/assets/images/checkout.png"
-      },
-      {
-        "subType": "Stripe",
-        "image": "/assets/images/stripe.png"
-      },
-      {
-        "subType": "Tabby",
-        "image": "/assets/images/tabby.png"
-      },
-      {
-        "subType": "Tamara",
-        "image": "/assets/images/tamara.png"
-      }
+    "name": "Payment Gateways",
+    "order": 5,
+    "types": [
+      { "subType": "Amazon Pay Front"},
+      { "subType": "Apple Pay"},
+      { "subType": "Checkout.com"},
+      { "subType": "Stripe" },
+      { "subType": "Tabby" },
+      { "subType": "Tamara"}
     ]
   },
   {
-    "skill": "CMS",
-    "type": [
-      {
-        "subType": "Strapi",
-        "image": "/assets/images/strapi.png"
-      },
-      {
-        "subType": "Magento 2",
-        "image": "/assets/images/magento2.png"
-      },
-      {
-        "subType": "Wordpress",
-        "image": "/assets/images/wordpress.png"
-      }
+    "name": "CMS",
+    "order": 6,
+    "types": [
+      { "subType": "Strapi" },
+      { "subType": "Magento 2" },
+      { "subType": "Wordpress" }
     ]
   },
   {
-    "skill": "Analytics & Monitoring",
-    "type": [
-      {
-        "subType": "Sentry",
-        "image": "/assets/images/sentry.png"
-      },
-      {
-        "subType": "SonarQube",
-        "image": "/assets/images/sonarqube.png"
-      },
-      {
-        "subType": "Google Tag Manager",
-        "image": "/assets/images/gtm.png"
-      },
-      {
-        "subType": "Google Analytics",
-        "image": "/assets/images/ga.png"
-      }
+    "name": "Analytics & Monitoring",
+    "order": 7,
+    "types": [
+      { "subType": "Sentry" },
+      { "subType": "SonarQube"},
+      { "subType": "Google Tag Manager" },
+      { "subType": "Google Analytics"}
     ]
   },
   {
-    "skill": "Cloud & Devops",
-    "type": [
-      {
-        "subType": "Cloudflare",
-        "image": "/assets/images/cloudflare.png"
-      },
-      {
-        "subType": "Cloudfront",
-        "image": "/assets/images/cloudfront.png"
-      },
-      {
-        "subType": "AWS",
-        "image": "/assets/images/aws.png"
-      }
+    "name": "Cloud & Devops",
+    "order": 8,
+    "types": [
+      { "subType": "Cloudflare"},
+      { "subType": "Cloudfront"},
+      { "subType": "AWS" }
     ]
   },
   {
-    "skill": "Other",
-    "type": [
-      {
-        "subType": "SEO",
-        "image": "/assets/images/seo.png"
-      },
-      {
-        "subType": "Figma",
-        "image": "/assets/images/figma.png"
-      },
-      {
-        "subType": "Creatie",
-        "image": "/assets/images/creatie.png"
-      }
+    "name": "Other",
+    "order": 9,
+    "types": [
+      { "subType": "SEO"},
+      { "subType": "Figma"},
+      { "subType": "Creatie"}
     ]
   },
   {
-    "skill": "Tools",
-    "type": [
-      {
-        "subType": "Gitlab",
-        "image": "/assets/images/gitlab.png"
-      },
-      {
-        "subType": "Github",
-        "image": "/assets/images/github.png"
-      },
-      {
-        "subType": "VS Code",
-        "image": "/assets/images/vscode.webp"
-      },
-      {
-        "subType": "Visual Studio",
-        "image": "/assets/images/visualstudio.png"
-      },
-      {
-        "subType": "Dev Tools",
-        "image": "/assets/images/devtools.png"
-      },
-      {
-        "subType": "Postman",
-        "image": "/assets/images/postman.png"
-      },
-      {
-        "subType": "Swagger",
-        "image": "/assets/images/swagger.png"
-      }
+    "name": "Tools",
+    "order": 10,
+    "types": [
+      { "subType": "Gitlab" },
+      { "subType": "Github" },
+      { "subType": "VS Code" },
+      { "subType": "Visual Studio" },
+      { "subType": "Dev Tools" },
+      { "subType": "Postman" },
+      { "subType": "Swagger" }
     ]
   }
 ]

@@ -16,7 +16,8 @@
     "image": {
       "type": "media",
       "allowedTypes": ["images"],
-      "multiple": false
+      "multiple": false,
+      "required": true
     },
     "link": { "type": "string" },
     "techStack": { "type": "json" },
